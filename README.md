@@ -1,1 +1,1 @@
-给出 https://jiapu.library.sh.cn/#/genealogyCenter 中所有地级市的结果数。
+给出[中国家谱知识服务平台](https://jiapu.library.sh.cn/#/genealogyCenter)中所有地级市的结果数。
